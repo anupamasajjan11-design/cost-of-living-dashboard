@@ -1,0 +1,50 @@
+
+
+
+city,country,avg_monthly_salary,rent_1br_center,rent_1br_outside,groceries_monthly,transport_monthly,utilities_monthly,eating_out_avg,internet_monthly,total_living_cost,affordability_index,region
+New York,USA,6500,3800,2500,400,130,150,15,120,5115,1.27,North America
+San Francisco,USA,8200,3600,2400,420,110,140,18,80,4750,1.73,North America
+Austin,USA,5200,1600,1100,350,80,120,12,70,2220,2.34,North America
+Chicago,USA,5000,1800,1200,340,105,130,13,70,2448,2.04,North America
+Seattle,USA,6800,2200,1500,380,100,130,15,70,2880,2.36,North America
+London,UK,4800,2800,1900,380,160,120,14,40,3500,1.37,Europe
+Berlin,Germany,3800,1400,900,300,90,120,10,35,1855,2.05,Europe
+Paris,France,3500,1600,1100,350,85,120,13,35,2103,1.66,Europe
+Amsterdam,Netherlands,4200,1800,1300,340,90,130,14,40,2414,1.74,Europe
+Barcelona,Spain,2400,1000,700,280,60,100,10,30,1390,1.73,Europe
+Lisbon,Portugal,1500,900,600,250,50,90,8,30,1338,1.12,Europe
+Warsaw,Poland,1800,700,450,200,40,80,6,20,996,1.81,Europe
+Toronto,Canada,4500,2000,1400,380,130,120,14,60,2574,1.75,North America
+Vancouver,Canada,4200,2200,1500,370,120,110,14,60,2774,1.51,North America
+Sydney,Australia,5000,2200,1500,400,120,130,15,60,2925,1.71,Oceania
+Melbourne,Australia,4500,1700,1200,370,110,120,14,60,2374,1.90,Oceania
+Tokyo,Japan,3500,1200,800,320,80,120,10,40,1770,1.98,Asia
+Singapore,Singapore,5500,2500,1700,400,110,140,12,50,3112,1.77,Asia
+Dubai,UAE,5800,2000,1300,350,90,130,12,60,2642,2.20,Middle East
+Mumbai,India,1200,500,300,150,30,50,4,15,734,1.63,Asia
+Bangalore,India,1500,400,250,140,25,45,4,12,626,2.40,Asia
+Nairobi,Kenya,800,400,250,120,30,60,4,15,629,1.27,Africa
+Cape Town,South Africa,1100,600,350,160,40,70,5,20,845,1.30,Africa
+São Paulo,Brazil,1400,700,450,200,50,80,6,25,1061,1.32,South America
+Buenos Aires,Argentina,900,400,250,180,30,60,5,20,745,1.21,South America
+Mexico City,Mexico,1200,550,350,170,35,70,5,20,850,1.41,North America
+Bangkok,Thailand,1100,600,400,180,35,60,4,18,797,1.38,Asia
+Kuala Lumpur,Malaysia,1400,700,450,200,40,70,5,20,985,1.42,Asia
+Jakarta,Indonesia,900,500,300,160,30,55,4,15,764,1.18,Asia
+Ho Chi Minh City,Vietnam,800,450,280,140,25,50,3,12,710,1.13,Asia
+Prague,Czech Republic,2200,900,600,240,50,90,8,25,1315,1.67,Europe
+Budapest,Hungary,1700,700,450,210,40,80,7,20,1007,1.69,Europe
+Bucharest,Romania,1400,550,350,190,35,75,6,15,871,1.61,Europe
+Istanbul,Turkey,1000,400,250,180,30,65,5,18,748,1.34,Europe
+Cairo,Egypt,600,300,180,120,20,45,3,12,480,1.25,Africa
+Lagos,Nigeria,700,350,200,130,25,55,4,14,578,1.21,Africa
+Zurich,Switzerland,7500,2800,2000,500,110,180,20,80,3490,2.15,Europe
+Oslo,Norway,5500,1900,1400,450,100,160,16,60,2686,2.05,Europe
+Stockholm,Sweden,4200,1500,1000,380,90,130,13,40,2013,2.09,Europe
+Copenhagen,Denmark,4800,1700,1200,400,100,140,14,40,2394,2.01,Europe
+Helsinki,Finland,3800,1400,900,350,90,130,12,35,1917,1.98,Europe
+Dublin,Ireland,4500,2100,1500,390,120,130,14,50,2804,1.60,Europe
+Taipei,Taiwan,2500,800,500,220,45,75,7,25,1147,2.18,Asia
+Seoul,South Korea,3200,1000,650,280,75,100,9,35,1399,2.29,Asia
+Beijing,China,2000,900,550,250,50,80,6,25,1311,1.53,Asia
+Shanghai,China,2500,1100,700,280,55,90,8,28,1561,1.60,Asia
